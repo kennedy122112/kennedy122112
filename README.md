@@ -73,7 +73,7 @@ const brian = {
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Agentes_%26_Skills-1E3A8A?style=flat-square&logo=probot&logoColor=white" alt="Agentes" />
   <img src="https://img.shields.io/badge/BPMN_2.0-0EA5E9?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="BPMN" />
-  <img src="https://img.shields.io/badge/Sector_público-SIAF--RP-2563EB?style=flat-square&logo=gitbook&logoColor=white" alt="SIAF-RP" />
+  <img src="https://img.shields.io/badge/Sector_público-2563EB?style=flat-square&logo=gitbook&logoColor=white" alt="Sector público" />
 </p>
 
 ## 📈 Actividad
