@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://coremaster.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Fundador+de+CoreMaster+S.A.C.+%F0%9F%9A%80;Agentes+y+skills+para+Claude+Code+%F0%9F%A4%96;Figma+%C2%B7+Blender+%C2%B7+Photoshop+%C2%B7+EA+%C2%B7+Bizagi+%2B+IA;Software+a+medida+desde+Ayacucho%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Fundador+de+CoreMaster+S.A.C.+%F0%9F%9A%80;Agentes+y+skills+para+Claude+Code+%F0%9F%A4%96;Figma+%C2%B7+Blender+%C2%B7+Photoshop+%C2%B7+EA+%C2%B7+Bizagi+%2B+IA;Software+a+medida+para+tu+empresa+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,6 @@
 ```ts
 const brian = {
   rol:        "Founder & Software Engineer @ CoreMaster S.A.C.",
-  base:       "Ayacucho, Perú 🇵🇪",
   construyo:  ["sistemas web a medida", "apps móviles", "agentes de IA que usan apps de escritorio"],
   obsesion:   "que la IA haga el trabajo pesado dentro de las herramientas que ya usas",
   ahora:      "la familia *-steroids 💉 y digitalización del sector público",
